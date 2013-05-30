@@ -1,8 +1,10 @@
 #Bones
-**A Lightweight Wordpress Development Theme**
+A Lightweight Wordpress Development Theme
 
-**HEADS UP!!!
+**************
+**HEADS UP!!!  
 Bones & Bones (Responsive Edition) have been merged.**
+**************
 
 Bones is designed to make the life of developers easier. It's built
 using HTML5 & has a strong semantic foundation. It was updated recently
@@ -16,7 +18,7 @@ License: WTFPL
 License URI: [http://sam.zoy.org/wtfpl/](http://sam.zoy.org/wtfpl)  
 Are You Serious? Yes.  
 
-Special Thanks to:
+**Special Thanks to:**
 
 * Paul Irish & the HTML5 Boilerplate
 * Yoast for some WP functions & optimization ideas
@@ -24,7 +26,7 @@ Special Thanks to:
 * David Dellanave for speed & code optimization
 * and several other developers. :)
 
-Submit Bugs & or Fixes:  
+**Submit Bugs & or Fixes:**  
 [https://github.com/eddiemachado/bones/issues](https://github.com/eddiemachado/bones/issue)
 
 To view Release & Update Notes, read the log.txt file inside
