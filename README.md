@@ -14,11 +14,12 @@ frequent user. I'm always open to contribution. :)
 
 Designed by **[Eddie Machado](http://themble.com/bone)**
 
-License: WTFPL  
-License URI: [http://sam.zoy.org/wtfpl/](http://sam.zoy.org/wtfpl)  
+##License
+WTFPL  
+[http://sam.zoy.org/wtfpl/](http://sam.zoy.org/wtfpl)  
 Are You Serious? Yes.  
 
-**Special Thanks to:**
+##Special Thanks to
 
 * Paul Irish & the HTML5 Boilerplate
 * Yoast for some WP functions & optimization ideas
@@ -26,7 +27,7 @@ Are You Serious? Yes.
 * David Dellanave for speed & code optimization
 * and several other developers. :)
 
-**Submit Bugs & or Fixes:**  
+##Submit Bugs & or Fixes
 [https://github.com/eddiemachado/bones/issues](https://github.com/eddiemachado/bones/issue)
 
 To view Release & Update Notes, read the log.txt file inside
